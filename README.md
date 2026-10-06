@@ -1,1 +1,1 @@
-Testo del readme
+Texto del readme
